@@ -360,6 +360,8 @@ RUNSREACTS = [
 ]
 
 RAPE_STRINGS = [
+     "`Pani Kaam Hai Matkey Me Teri Gand Marlunga Jhatkey Me 😂`",
+     "`Sunny Tujhpe Bhari Hai Kuttey ne teri Mari Hai Xd`",
      "`Rape Done Drink The Cum`",
      "`EK baat yaad rkhio, Chut ka Chakkar matlab maut se takkar`",
      "`The user has been successfully raped`",
@@ -399,6 +401,7 @@ GEY_STRINGS = [
 PRO_STRINGS = [
      "`This gey is pro as phack.`",
      "`Pros here -_- Time to Leave`",
+     "`This nigga is Pro like realme`",
      "`Proness Lebel: 6969696969`",
      "`Itna pro banda dekhlia bc, ab to marna hoga.`",
      "`U iz pro but i iz ur DAD, KeK`",
@@ -889,7 +892,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay 6969$ to` @Spyderzzz `To Remove This Hack...`\n"
+                "`Pay 99901$ + A Chamakal chalo to` @Nitin1818 `To Remove This Hack...`\n"
             )
 			  
 @register(outgoing=True, pattern="^.kill$")
